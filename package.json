@@ -1,0 +1,26 @@
+{
+  "name": "teste-ebac-shop-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e " 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testingmarco/teste-ebac-shop-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testingmarco/teste-ebac-shop-cypress/issues"
+  },
+  "homepage": "https://github.com/testingmarco/teste-ebac-shop-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
